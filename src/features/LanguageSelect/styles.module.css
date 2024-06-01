@@ -1,0 +1,9 @@
+.LanguageSelect {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.LanguageSelect p {
+  margin: 0 4px 0 6px;
+}
